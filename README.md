@@ -2,7 +2,7 @@
 
 A nice Navigation Menu with CSS Effects.
 
-I practiced here with green sock CDN to perform a simple but nice animation, also coded a few gradients, cool color composition and a bit of JS.
+I practiced here with [Green Sock](https://greensock.com/get-started/) CDN to perform a simple but nice animation, also coded a few gradients, cool color composition and a bit of JS.
 
 Cool HTML, CSS and a few of JS code.
 
