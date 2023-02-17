@@ -1,6 +1,6 @@
 ## Just For Fun
 
-A nice Navigation Menu with CSS Effects.
+A cool animation using GreenSock with some CSS Effects.
 
 I practiced here with [Green Sock](https://greensock.com/get-started/) CDN to perform a simple but nice animation, also coded a few gradients, cool color composition and a bit of JS.
 
